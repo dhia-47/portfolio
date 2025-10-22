@@ -35,3 +35,17 @@ footer {
   color: #555;
   margin-top: 20px;
 }
+
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  section {
+    padding: 10px;
+  }
+}
