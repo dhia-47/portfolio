@@ -49,3 +49,19 @@ footer {
     padding: 10px;
   }
 }
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1, h2 {
+  font-weight: 600;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.btn {
+  border-radius: 25px;
+}
